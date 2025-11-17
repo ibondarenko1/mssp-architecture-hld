@@ -72,7 +72,7 @@ This repository exists to:
 ---
 
 ## 👤 **Author**
-**Evgeniy Bondarenko**  
+**Ievgen Bondarenko**  
 Technical Security Architect & SOC Program Lead  
 Summit AI Tech
 
@@ -81,8 +81,8 @@ Summit AI Tech
 ## 📬 Contact
 For architecture reviews, engineering contributions, or requests:
 
-📧 summit@yourdomain.com  
-🌐 https://summit-ai-tech.com *(optional placeholder)*
+
+🌐 https://summit-ai-tech.com 
 
 ---
 
