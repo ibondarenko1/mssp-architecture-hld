@@ -1,4 +1,4 @@
-.......# **Summit AI Tech — MSSP Architecture HLD**
+........# **Summit AI Tech — MSSP Architecture HLD**
 ### **High-Level Design (HLD) for Multi-Tenant SOC/MSSP Platform**
 
 This repository contains the official **High-Level Design (HLD)** document for the **Summit AI Tech** Managed Security Service Provider (MSSP) platform.  
